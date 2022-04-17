@@ -1,0 +1,33 @@
+.container{
+    background-color: #5B6CC6;
+    font-size: 30px;
+    font-family: kalam;
+    text-align: center;
+    padding-top: 20px;
+    width: 400px;
+    height: 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 65px;
+}
+
+.container1{
+    background-color: #145E5E;
+    position: absolute;
+    left: 33.5%;
+    padding: 20px;
+    height: 400px;
+    width: 450px;
+    border-radius: 20px;
+    }
+
+.regist{
+    color: black;
+    text-decoration: none;
+}
+.regist:hover{
+    color: white;
+}
+  
